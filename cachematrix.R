@@ -4,6 +4,7 @@
 ## Write a short comment describing this function
 #inverse_m stands for inverse of a matrix; replaces 'm'
 #solve(x) is used to replace mean(x)
+#Try to add something
 
 makeCacheMatrix <- function(x = matrix()) {
         inverse_m <- NULL
